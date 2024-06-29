@@ -1,3 +1,3 @@
 - Hello There, I’m @AbdulkadirGultekin
 - I’m an Industrial Engineering student interested in operations research algorithms and models.
-- I’m currently studying im Middle East Technical University, Turkey.
+- I’m currently studying in Middle East Technical University, Turkey.
